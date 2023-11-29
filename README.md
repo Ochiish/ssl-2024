@@ -6,4 +6,4 @@
 - phototransistor
 - bldc
 
-<src="">
+<img src="image/masuo.gif" width="600">
