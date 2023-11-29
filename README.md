@@ -1,4 +1,4 @@
-# 2024 season rione ssl circuit
+# 2024 season Ri-one SSL circuit
 # Content
 - MainBoard
 - SubBoard
