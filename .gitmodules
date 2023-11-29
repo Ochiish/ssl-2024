@@ -1,0 +1,3 @@
+[submodule "ssl-sub_board"]
+	path = ssl-sub_board
+	url = git@github.com:Ochiish/ssl-2024.git
